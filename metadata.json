@@ -1,0 +1,6 @@
+{
+  "name": "MariniosIPTV Dashboard",
+  "description": "Premium streaming dashboard frontend for Marinios IPTV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
