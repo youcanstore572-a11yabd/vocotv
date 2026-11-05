@@ -40,7 +40,7 @@ const clampDescription = (s: string, max = 160): string =>
   s.length <= max ? s : s.slice(0, max - 3).trimEnd() + '...';
 
 const SEO_TITLE = clampTitle(
-  `${BRAND} - Smart 4K Streaming, Sports & Movies`
+  `VOCO TV - Best IPTV Provider | Premium IPTV Subscription`
 );
 const SEO_DESCRIPTION = clampDescription(
   `${BRAND} with 36,000+ live channels & 120,000+ 4K movies. Start your free trial today with easy chat setup and no lock-in.`

@@ -21,7 +21,7 @@ const clampDescription = (s: string, max = 158): string =>
 // SEO STRINGS — locked to safe SERP lengths
 // ---------------------------------------------------------------------------
 const PAGE_TITLE = clampTitle(
-  `${BRAND} Reseller USA | Start at $320`
+  `VOCO TV Reseller Program in USA | Start at $320`
 );
 
 const PAGE_DESCRIPTION = clampDescription(

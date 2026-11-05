@@ -19,7 +19,7 @@ const PAGE_URL = `${SITE_URL}/setup`;
 // SEO STRINGS — Locked (Title 50–59, Desc 120–130)
 // ---------------------------------------------------------------------------
 const PAGE_TITLE = clampTitle(
-  `${BRAND} Setup | Firestick, Smart TV & Mobile Guide`
+  `VOCO TV Setup | Firestick, Smart TV & Mobile Guide`
 );
 
 const PAGE_DESCRIPTION = clampDescription(

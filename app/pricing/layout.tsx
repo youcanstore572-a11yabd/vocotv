@@ -20,7 +20,7 @@ const PAGE_URL = `${SITE_URL}/pricing`;
 // SEO STRINGS
 // ---------------------------------------------------------------------------
 const PAGE_TITLE = clampTitle(
-  `${BRAND} Pricing & Plans | 4K Live Channels`
+  `VOCO TV Pricing & Plans Subscription | 4K Live Channels`
 );
 
 const PAGE_DESCRIPTION = clampDescription(
