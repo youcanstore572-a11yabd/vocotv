@@ -8,8 +8,9 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: false,
   },
-  // Allow access to remote image placeholder.
+  // Allow access to remote image placeholder & bypass Vercel Image Optimization limits.
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
